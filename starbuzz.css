@@ -99,7 +99,7 @@ a:visited {
   position: fixed;
   top: 350px;
   left: -250px;
-  transition:0.5s;
+  transition:0.6s;
 }
 #coupon a, img{
   border: none;
